@@ -1,0 +1,12 @@
+streamlit>=1.40,<2.0
+Pillow>=10.4
+pytesseract>=0.3.13
+pypdfium2>=4.30
+opencv-python-headless>=4.10
+reportlab>=4.2
+rapidfuzz>=3.10
+Faker>=30
+pytest>=8.3
+
+# Local OCR fallback (large PyTorch dependency; no Tesseract executable required)
+easyocr>=1.7.2,<2.0

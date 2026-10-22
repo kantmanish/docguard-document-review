@@ -1,0 +1,12 @@
+INVOICE
+Invoice No: DEMO-001
+Invoice Date: 2026-10-15
+GSTIN: 09AAACB1234C1Z5
+Qty: 2
+Unit Rate: 100.00
+Line Amount: 200.00
+GST Rate: 18
+Subtotal: 200.00
+CGST: 18.00
+SGST: 18.00
+Grand Total: 236.00
